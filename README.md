@@ -1,10 +1,11 @@
 # Test-Website
 
-<a href="[https://www.example.com"](https://laptique.github.io/odin-recipes/index.html) target="_blank">
+<a href="[https://www.example.com](https://laptique.github.io/odin-recipes/index.html)" target="_blank">
     <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
         Live preview
     </button>
 </a>
+
 
 
 #### In this website I will attempt to create a very simple website about a certain recipes from "allrecipes.com"
