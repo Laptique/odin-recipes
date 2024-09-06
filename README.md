@@ -1,10 +1,6 @@
 # Test-Website
 
-<a href="[https://www.example.com](https://laptique.github.io/odin-recipes/index.html)" target="_blank">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-        Live preview
-    </button>
-</a>
+[![Live website preview](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE.svg)]([https://example.com/...](https://laptique.github.io/odin-recipes/index.html))
 
 
 
