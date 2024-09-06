@@ -117,17 +117,18 @@ ol li span{
     padding: 2rem;
     color: var(--eggsehll);
     background-color: var(--nutmeg);
-    border-radius: 1rem;
+    border-radius: 0rem 1rem 1rem 0rem;
     width: 40px;
     height: 20px;
     align-items: center;
     display: inline-block;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, width 0.3s ease; /
+    overflow: hidden; 
 }
 
-.return-btn:hover h3 a{
+.return-btn:hover h3 a {
     cursor: pointer;
-    transform: scale(1.2);
+    width: 120px; 
 }
 
 
