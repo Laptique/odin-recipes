@@ -1,6 +1,7 @@
-#Test-Website
-In this website I will attempt to create a very simple website about a certain recipes from "allrecipes.com"
-The Tags I used for this, were:
+# Test-Website
+
+#### In this website I will attempt to create a very simple website about a certain recipes from "allrecipes.com"
+#### The Tags I used for this, were:
 
 ```
 - <br>: for more space in-between paragraphs
