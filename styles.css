@@ -161,6 +161,6 @@ ol li span{
     border-radius: 0 0 1rem 1rem;
 }
 
-.container.footer p {
-    margin: 0;
+#recipes-source:hover {
+    cursor: pointer;
 }
